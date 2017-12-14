@@ -24,3 +24,15 @@
 <p style="font-family:arial;color:red;font-size:20px;">Ò»¸ö¶ÎÂä¡£</p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p style="font-family:verdana;font-size:110%;color:green">
+This is a paragraph with some text in it. This is a paragraph with some text in it. This is a paragraph with some text in it. This is a paragraph with some text in it.
+</p>
+
+</body>
+</html>
